@@ -1,0 +1,41 @@
+[
+    {
+        "InventionId":1,
+        "ReplicationId":"8767e989-3800-47da-9809-5753c1376d9b",
+        "CreatorPlayerId":1,
+        "Name":"Real PS4 Retextured",
+        "Description":"ps4 pro retextured",
+        "ImageName":"4e661e39ec2644ea811409fd2be86df5.jpg",
+        "UgcVersion":1,
+        "ForceCannotPublish":false,
+        "CurrentVersionNumber":1,
+        "CurrentVersion":{
+            "BlobName":"272ff8561d264bfea7fbdad4e877454d.inv",
+            "InventionId":1,
+            "ReplicationId":"f1a4fb1c-5a95-42cb-8396-165f7cf1e4f3",
+            "VersionNumber":1
+            ,"BlobHash":null,
+            "InstantiationCost":320,
+            "LightsCost":0,
+            "ChipsCost":0,
+            "CloudVariablesCost":0
+        },
+        "Accessibility":1,
+        "IsPublished":true,
+        "IsFeatured":true,
+        "ModifiedAt":"",
+        "CreatedAt":"",
+        "FirstPublishedAt":"",
+        "CreationRoomId":1,
+        "NumPlayersHaveUsedInRoom":0,
+        "NumDownloads":0,
+        "CheerCount":0,
+        "CreatorPermission":0,
+        "GeneralPermission":0,
+        "IsAGInvention":false,
+        "IsCertifiedInvention":false,
+        "Price":null,
+        "AllowTrial":true,
+        "HideFromPlayer":false
+    }
+]
